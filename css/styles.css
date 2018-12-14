@@ -1,5 +1,5 @@
 body {
-  background-color: orange;
+  background-color: grey;
   font-size: large;
   margin-left: 50px;
   margin-right: 50px;
@@ -8,7 +8,25 @@ h1 {
   text-align: center;
   color: green;
 }
-p {
-  text-align: center;
-  color: green;
+.container {
+  display: flex;
+  padding: 50px;
+  justify-content: stretch;
+  margin: 30px;
+}
+#equilateral {
+  border: 1px solid white;
+  width: 400px;
+}
+#isoscele {
+  border: 1px solid white;
+  width: 400px;
+}
+#scalene {
+  border: 1px solid white;
+  width: 400px;
+}
+img {
+  float: left;
+  padding: 10px;
 }
