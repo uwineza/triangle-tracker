@@ -1,0 +1,14 @@
+body {
+  background-color: orange;
+  font-size: large;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+h1 {
+  text-align: center;
+  color: green;
+}
+p {
+  text-align: center;
+  color: green;
+}
