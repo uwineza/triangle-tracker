@@ -37,7 +37,7 @@ For any issues or have questions, ideas or concerns use these contacts:
 
 - Telephone no:0785564574;
 - Email:niyinezafofo@gmail.com .
-- For making a contribution to the code this is the github link:https://github.com/uwineza/triangle-tracker.git
+- For making a contribution to the code this is the github link: https://github.com/uwineza/triangle-tracker.git
 
 ### License
 
