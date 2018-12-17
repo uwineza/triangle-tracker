@@ -10,7 +10,7 @@ Triangle tracker is the project that helps to identify the type of a triangle ac
 
 To start using this project follow these steps:
 
-- git clone on: https://github.com/uwineza/triangle-tracker.git and This is my hosted link
+- git clone on: https://github.com/uwineza/triangle-tracker.git and This is my hosted link: https://uwineza.github.io/triangle-tracker/
 - cd triangleTracker
 - code .
 
