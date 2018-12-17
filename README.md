@@ -15,7 +15,7 @@ To start using this project follow these steps:
 - code .
 
 ## BDD
-The numbers before the behavior are respectively related to the numbers of input and output
+The numbers before the behavior are respectively related to the numbers of input and output.
 ###BEHAVIOR:                                                                            
 * 1:Sum of any two sides is greater than the third side                                         
 * 2:Sum of any two sides is equal or less than the third side                                     
