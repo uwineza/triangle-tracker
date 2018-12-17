@@ -16,12 +16,12 @@ To start using this project follow these steps:
 
 ## BDD
 
-###BEHAVIOR:                                                    ###IMPUT example                         ###OUTPUT example
-* Sum of any two sides is greater than the third side              * [5,6,7]                             * triangle can be formed
-* Sum of any two sides is equal or less than the third side        * [4,9,3]                              * triangle can not be formed
-* Three sides have same length                                     * [4,4,4]                               * triangle is Equilateral
-* Two sides have same length                                        * [4,4,3]                              * triangle is Isoscele
-*  All sides have different lengths                                 * [1,2,3]                               * triangle is Scalene
+###BEHAVIOR:                                                    ###IMPUT example                 ###OUTPUT example
+* Sum of any two sides is greater than the third side              * [5,6,7]                      * triangle can be formed
+* Sum of any two sides is equal or less than the third side        * [4,9,3]                     * triangle can not be formed
+* Three sides have same length                                     * [4,4,4]                       * triangle is Equilateral
+* Two sides have same length                                        * [4,4,3]                       * triangle is Isoscele
+*  All sides have different lengths                                 * [1,2,3]                        * triangle is Scalene
 
 ## Technologies Used
 
