@@ -10,8 +10,8 @@ Triangle tracker is the project that helps to identify the type of a triangle ac
 
 To start using this project follow these steps:
 
-- git clone on: This is my hosted link
-- cd portfolio-Landing-Page
+- git clone on: https://github.com/uwineza/triangle-tracker.git and This is my hosted link
+- cd triangleTracker
 - code .
 
 ## BDD
@@ -37,7 +37,7 @@ For any issues or have questions, ideas or concerns use these contacts:
 
 - Telephone no:0785564574;
 - Email:niyinezafofo@gmail.com .
-- For making a contribution to the code this is the github link:
+- For making a contribution to the code this is the github link:https://github.com/uwineza/triangle-tracker.git
 
 ### License
 
