@@ -17,28 +17,23 @@ h1 {
 #equilateral {
   border: 1px solid white;
   width: 400px;
+  background-color: blueviolet;
 }
 #isoscele {
   border: 1px solid white;
   width: 400px;
+  background-color: brown;
 }
 #scalene {
   border: 1px solid white;
   width: 400px;
+  background-color: green;
 }
 img {
   float: left;
   padding: 10px;
 }
-#equilateral {
-  background-color: blueviolet;
-}
-#isoscele {
-  background-color: brown;
-}
-#scalene {
-  background-color: green;
-}
+
 span {
   font-style: italic;
   color: white;
