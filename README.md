@@ -16,19 +16,19 @@ To start using this project follow these steps:
 
 ## BDD
 The numbers before the behavior are respectively related to the numbers of input and output.
-###BEHAVIOR:                                                                            
+### BEHAVIOR:                                                                            
 * 1:Sum of any two sides is greater than the third side                                         
 * 2:Sum of any two sides is equal or less than the third side                                     
 * 3:Three sides have same length                                                                
 * 4:Two sides have same length                                                                    
 *  5:All sides have different lengths                                                            
-###INPUT example 
+### INPUT example 
 * 1:[5,6,7]
 * 2:[4,9,3] 
 * 3:[4,4,4] 
 * 4:[4,4,3] 
 * 5:[1,2,3] 
-###OUTPUT example
+### OUTPUT example
 * 1:triangle can be formed
 * 2:triangle can not be formed
 * 3:triangle is Equilateral
