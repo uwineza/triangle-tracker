@@ -30,3 +30,12 @@ img {
   float: left;
   padding: 10px;
 }
+#equilateral {
+  background-color: blueviolet;
+}
+#isoscele {
+  background-color: brown;
+}
+#scalene {
+  background-color: green;
+}
